@@ -1,0 +1,16 @@
+title : 一个热爱木工的软件工程师
+tagline: 木工和软件
+author :
+  name : 靖天
+  email : ifqqfi@gmail.com
+  github : ifq
+  twitter : ifq
+  feedburner : ifqqfi
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md
+  
