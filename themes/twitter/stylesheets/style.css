@@ -13,6 +13,7 @@ html, body {
 }
 .container > footer p {
   text-align: center; /* center align it with the container */
+  font-size: 12px;
 }
 
 /* The white background content wrapper */
