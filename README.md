@@ -1,6 +1,1 @@
-Visit http://github.com/wendal/gor
-
-## License
-
-Released under the [MIT License](http://www.opensource.org/licenses/MIT)
-
+靖天的博客，这里是后台没啥好看的，要看看这：http://iwood.co.nr/
