@@ -6,7 +6,7 @@ theme : twitter
 production_url : http://iwood.co.nr
 
 posts:
-  permalink: /:year/:month/:day/:title/
+  permalink: /blog/:year/:month/:day/:filename/
   summary_lines: 5
   latest: 10
 
