@@ -18,3 +18,8 @@ paginator:
   per_page: 10
   root_page: "/"
   layout: "paginator"
+
+imgs:
+  imgtag: '<alt="img: " width="600" class="imgbox" img src="%s">'
+  urlperfix: 'http://iwood.qiniudn.com/media/'
+  localdir: 'rc/media/'
