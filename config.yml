@@ -20,6 +20,6 @@ paginator:
   layout: "paginator"
 
 imgs:
-  imgtag: '<alt="img: " width="600" class="imgbox" img src="%s">'
+  imgtag: '<img alt="img: " width="600" class="imgbox" src="%s">'
   urlperfix: 'http://iwood.qiniudn.com/media/'
   localdir: 'rc/media/'
