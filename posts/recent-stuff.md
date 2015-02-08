@@ -10,9 +10,10 @@ tags:
 
 最近加班加疯了，木工都没时间玩，东西都开生锈了！本来有很多东西可以写，但是没时间，时间长了又忘记了。
 
+<img alt="img: " width="600" class="imgbox" src="http://iwood.qiniudn.com/media/recent-me/bookcase.jpg">
+
 - 给小孩做了个书柜，国外网站找的plan，做出来还原度还很高，受到一致好评～改天发个制作过程。
 
-<img alt="img: " width="600" class="imgbox" src="http://iwood.qiniudn.com/media/recent-me/bookcase.jpg">
 
 <img alt="img: " width="600" class="imgbox" src="http://iwood.qiniudn.com/media/recent-me/bookcase2.jpg">
 
